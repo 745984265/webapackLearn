@@ -9,13 +9,13 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./src/index.js":
-/*!**********************!*\
-  !*** ./src/index.js ***!
-  \**********************/
+/***/ "./src/index2.js":
+/*!***********************!*\
+  !*** ./src/index2.js ***!
+  \***********************/
 /***/ (() => {
 
-eval("var av = 232323\n\n//# sourceURL=webpack://webpackLearn/./src/index.js?");
+eval("var cc = 45454\r\nconsole.log('index2')\n\n//# sourceURL=webpack://webpackLearn/./src/index2.js?");
 
 /***/ })
 
@@ -26,7 +26,7 @@ eval("var av = 232323\n\n//# sourceURL=webpack://webpackLearn/./src/index.js?");
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module can't be inlined because the eval devtool is used.
 /******/ 	var __webpack_exports__ = {};
-/******/ 	__webpack_modules__["./src/index.js"]();
+/******/ 	__webpack_modules__["./src/index2.js"]();
 /******/ 	
 /******/ })()
 ;
