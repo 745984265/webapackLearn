@@ -4,3 +4,7 @@ var av = 232323
 console.log('index')
 
 React.createElement("div")
+
+export default function() {
+    cosole.log('3333')
+}

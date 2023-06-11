@@ -6,6 +6,7 @@
  * or disable the default devtool with "devtool: false".
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
+var my_library;
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -15,7 +16,7 @@
   \***********************/
 /***/ (() => {
 
-eval("var cc = 45454\r\nconsole.log('index2')\n\n//# sourceURL=webpack://webpackLearn/./src/index2.js?");
+eval("var cc = 45454\r\nconsole.log('index2')\n\n//# sourceURL=webpack://my_library/./src/index2.js?");
 
 /***/ })
 
@@ -27,6 +28,7 @@ eval("var cc = 45454\r\nconsole.log('index2')\n\n//# sourceURL=webpack://webpack
 /******/ 	// This entry module can't be inlined because the eval devtool is used.
 /******/ 	var __webpack_exports__ = {};
 /******/ 	__webpack_modules__["./src/index2.js"]();
+/******/ 	my_library = __webpack_exports__;
 /******/ 	
 /******/ })()
 ;
